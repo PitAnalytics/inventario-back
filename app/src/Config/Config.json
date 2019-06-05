@@ -1,0 +1,23 @@
+{
+    "database":{
+
+        "database_type":"mysql",
+        "database_name":"RASTREO",
+        "server":"localhost",
+        "username":"root",
+        "password":"Pit2018mtv#@"
+        
+    },
+    "app":{
+
+        "url":"http://localhost/rastreo/public",
+        "name":"skeleton"
+
+    },
+    "google":{
+
+        "projectId":"none"
+
+    }
+
+}
